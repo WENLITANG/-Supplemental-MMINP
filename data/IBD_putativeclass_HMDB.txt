@@ -1,0 +1,475 @@
+accession	name	direct_parent	kingdom	super_class	class	sub_class	type	putative
+HMDB0000001	1-Methylhistidine	Histidine and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	sub_class	Amino acids, peptides, and analogues
+HMDB0000002	1,3-Diaminopropane	Monoalkylamines	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	sub_class	Amines
+HMDB0000005	2-Ketobutyric acid	Short-chain keto acids and derivatives	Organic compounds	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives	sub_class	Short-chain keto acids and derivatives
+HMDB0000010	2-Methoxyestrone	Estrogens and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Estrane steroids	sub_class	Estrane steroids
+HMDB0000015	Cortexolone	21-hydroxysteroids	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Hydroxysteroids	sub_class	Hydroxysteroids
+HMDB0000017	4-Pyridoxic acid	Pyridinecarboxylic acids	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Pyridinecarboxylic acids and derivatives	sub_class	Pyridinecarboxylic acids and derivatives
+HMDB0000020	p-Hydroxyphenylacetic acid	1-hydroxy-2-unsubstituted benzenoids	Organic compounds	Benzenoids	Phenols	1-hydroxy-2-unsubstituted benzenoids	sub_class	1-hydroxy-2-unsubstituted benzenoids
+HMDB0000031	Androsterone	Androgens and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Androstane steroids	sub_class	Androstane steroids
+HMDB0000032	7-Dehydrocholesterol	Cholesterols and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids	sub_class	Cholestane steroids
+HMDB0000034	Adenine	6-aminopurines	Organic compounds	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives	sub_class	Purines and purine derivatives
+HMDB0000036	Taurocholic acid	Trihydroxy bile acids, alcohols and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	sub_class	Bile acids, alcohols and derivatives
+HMDB0000039	Butyric acid	Straight chain fatty acids	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	sub_class	Fatty acids and conjugates
+HMDB0000042	Acetic acid	Carboxylic acids	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acids	sub_class	Carboxylic acids
+HMDB0000044	Ascorbic acid	Butenolides	Organic compounds	Organoheterocyclic compounds	Dihydrofurans	Furanones	sub_class	Furanones
+HMDB0000048	Melibiose	O-glycosyl compounds	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	sub_class	Carbohydrates and carbohydrate conjugates
+HMDB0000062	L-Carnitine	Carnitines	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Quaternary ammonium salts	sub_class	Quaternary ammonium salts
+HMDB0000068	Epinephrine	Catechols	Organic compounds	Benzenoids	Phenols	Benzenediols	sub_class	Benzenediols
+HMDB0000072	cis-Aconitic acid	Tricarboxylic acids and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Tricarboxylic acids and derivatives	sub_class	Tricarboxylic acids and derivatives
+HMDB0000076	Dihydrouracil	Pyrimidones	Organic compounds	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives	sub_class	Pyrimidines and pyrimidine derivatives
+HMDB0000086	Glycerophosphocholine	Glycerophosphocholines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines	sub_class	Glycerophosphocholines
+HMDB0000108	Ethanol	Primary alcohols	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	sub_class	Alcohols and polyols
+HMDB0000114	Glycerylphosphorylethanolamine	Glycerophosphoethanolamines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines	sub_class	Glycerophosphoethanolamines
+HMDB0000126	Glycerol 3-phosphate	Glycerophosphates	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates	sub_class	Glycerophosphates
+HMDB0000134	Fumaric acid	Dicarboxylic acids and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Dicarboxylic acids and derivatives	sub_class	Dicarboxylic acids and derivatives
+HMDB0000152	Gentisic acid	Hydroxybenzoic acid derivatives	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	sub_class	Benzoic acids and derivatives
+HMDB0000197	Indoleacetic acid	Indole-3-acetic acid derivatives	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives	sub_class	Indolyl carboxylic acids and derivatives
+HMDB0000201	L-Acetylcarnitine	Acyl carnitines	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	sub_class	Fatty acid esters
+HMDB0000205	Phenylpyruvic acid	Phenylpyruvic acid derivatives	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenylpyruvic acid derivatives	sub_class	Phenylpyruvic acid derivatives
+HMDB0000208	Oxoglutaric acid	Gamma-keto acids and derivatives	Organic compounds	Organic acids and derivatives	Keto acids and derivatives	Gamma-keto acids and derivatives	sub_class	Gamma-keto acids and derivatives
+HMDB0000225	Oxoadipic acid	Medium-chain keto acids and derivatives	Organic compounds	Organic acids and derivatives	Keto acids and derivatives	Medium-chain keto acids and derivatives	sub_class	Medium-chain keto acids and derivatives
+HMDB0000243	Pyruvic acid	Alpha-keto acids and derivatives	Organic compounds	Organic acids and derivatives	Keto acids and derivatives	Alpha-keto acids and derivatives	sub_class	Alpha-keto acids and derivatives
+HMDB0000244	Riboflavin	Flavins	Organic compounds	Organoheterocyclic compounds	Pteridines and derivatives	Alloxazines and isoalloxazines	sub_class	Alloxazines and isoalloxazines
+HMDB0000251	Taurine	Organosulfonic acids	Organic compounds	Organic acids and derivatives	Organic sulfonic acids and derivatives	Organosulfonic acids and derivatives	sub_class	Organosulfonic acids and derivatives
+HMDB0000256	Squalene	Triterpenoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Triterpenoids	sub_class	Triterpenoids
+HMDB0000259	Serotonin	Serotonins	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Tryptamines and derivatives	sub_class	Tryptamines and derivatives
+HMDB0000301	Urocanic acid	Imidazolyl carboxylic acids and derivatives	Organic compounds	Organoheterocyclic compounds	Azoles	Imidazoles	sub_class	Imidazoles
+HMDB0000305	Vitamin A	Retinoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Retinoids	sub_class	Retinoids
+HMDB0000306	Tyramine	Phenethylamines	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenethylamines	sub_class	Phenethylamines
+HMDB0000325	3-Hydroxysuberic acid	Medium-chain hydroxy acids and derivatives	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Medium-chain hydroxy acids and derivatives	sub_class	Medium-chain hydroxy acids and derivatives
+HMDB0000329	2-Phenylbutyric acid	Phenylpropanes	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenylpropanes	sub_class	Phenylpropanes
+HMDB0000349	Erythrono-1,4-lactone	Gamma butyrolactones	Organic compounds	Organoheterocyclic compounds	Lactones	Gamma butyrolactones	sub_class	Gamma butyrolactones
+HMDB0000386	3b,16a-Dihydroxyandrostenone sulfate	Sulfated steroids	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Sulfated steroids	sub_class	Sulfated steroids
+HMDB0000417	3D,7D,11D-Phytanic acid	Acyclic diterpenoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids	sub_class	Diterpenoids
+HMDB0000419	3b,7a,12a-Trihydroxy-5b-cholanoic acid	1,2-diacylglycerols	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Diradylglycerols	sub_class	Diradylglycerols
+HMDB0000430	24,25-Dihydroxyvitamin D	Vitamin D and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Vitamin D and derivatives	sub_class	Vitamin D and derivatives
+HMDB0000466	3-Methylindole	3-methylindoles	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Indoles	sub_class	Indoles
+HMDB0000474	Butanone	Ketones	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	sub_class	Carbonyl compounds
+HMDB0000494	Stigmastanol	Stigmastanes and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Stigmastanes and derivatives	sub_class	Stigmastanes and derivatives
+HMDB0000534	Campestanol	Ergosterols and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Ergostane steroids	sub_class	Ergostane steroids
+HMDB0000536	Adenylsuccinic acid	Biphenyls and derivatives	Organic compounds	Benzenoids	Benzene and substituted derivatives	Biphenyls and derivatives	sub_class	Biphenyls and derivatives
+HMDB0000561	beta-Carotene	Carotenes	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Tetraterpenoids	sub_class	Tetraterpenoids
+HMDB0000572	Desmosine	Tetracarboxylic acids and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Tetracarboxylic acids and derivatives	sub_class	Tetracarboxylic acids and derivatives
+HMDB0000583	Docosanamide	Fatty amides	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty amides	sub_class	Fatty amides
+HMDB0000585	Glucosylgalactosyl hydroxylysine	Fatty acyl glycosides of mono- and disaccharides	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl glycosides	sub_class	Fatty acyl glycosides
+HMDB0000610	CE(18:2(9Z,12Z))	Cholesteryl esters	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroid esters	sub_class	Steroid esters
+HMDB0000673	Linoleic acid	Lineolic acids and derivatives	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Lineolic acids and derivatives	sub_class	Lineolic acids and derivatives
+HMDB0000715	Kynurenic acid	Quinoline carboxylic acids	Organic compounds	Organoheterocyclic compounds	Quinolines and derivatives	Quinoline carboxylic acids	sub_class	Quinoline carboxylic acids
+HMDB0000954	Ferulic acid	Hydroxycinnamic acids	Organic compounds	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Hydroxycinnamic acids and derivatives	sub_class	Hydroxycinnamic acids and derivatives
+HMDB0000961	Farnesyl pyrophosphate	Sesquiterpenoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids	sub_class	Sesquiterpenoids
+HMDB0000977	3-Hexaprenyl-4-hydroxy-5-methoxybenzoic acid	2-polyprenyl-6-methoxyphenols	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Polyprenylphenols	sub_class	Polyprenylphenols
+HMDB0000995	16-Dehydroprogesterone	20-oxosteroids	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Oxosteroids	sub_class	Oxosteroids
+HMDB0001021	Malyl-CoA	(R)-3-hydroxyacyl CoAs	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters	sub_class	Fatty acyl thioesters
+HMDB0001060	Ubiquinol 8	Polyprenyl quinols	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids	sub_class	Quinone and hydroquinone lipids
+HMDB0001085	Leukotriene B4	Leukotrienes	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids	sub_class	Eicosanoids
+HMDB0001169	4-Aminophenol	Aniline and substituted anilines	Organic compounds	Benzenoids	Benzene and substituted derivatives	Aniline and substituted anilines	sub_class	Aniline and substituted anilines
+HMDB0001183	Octanol	Fatty alcohols	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	sub_class	Fatty alcohols
+HMDB0001186	N1-Acetylspermine	Acetamides	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives	sub_class	Carboxylic acid derivatives
+HMDB0001212	Hydantoin-5-propionic acid	Hydantoins	Organic compounds	Organoheterocyclic compounds	Azolidines	Imidazolidines	sub_class	Imidazolidines
+HMDB0001219	Chlordecone alcohol	Monoterpenoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Monoterpenoids	sub_class	Monoterpenoids
+HMDB0001232	4-Nitrophenol	Nitrophenols	Organic compounds	Benzenoids	Phenols	Nitrophenols	sub_class	Nitrophenols
+HMDB0001431	Pyridoxamine	Pyridoxamine 5'-phosphates	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Pyridoxamines	sub_class	Pyridoxamines
+HMDB0001469	Undecaprenyl diphosphate	Bactoprenol diphosphates	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Polyprenols	sub_class	Polyprenols
+HMDB0001518	alpha-CEHC	1-benzopyrans	Organic compounds	Organoheterocyclic compounds	Benzopyrans	1-benzopyrans	sub_class	1-benzopyrans
+HMDB0001551	Palmitaldehyde	Fatty aldehydes	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty aldehydes	sub_class	Fatty aldehydes
+HMDB0001850	Verapamil	Phenylbutylamines	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenylbutylamines	sub_class	Phenylbutylamines
+HMDB0001917	Digoxin	Cardenolide glycosides and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroid lactones	sub_class	Steroid lactones
+HMDB0001919	Famotidine	2,4-disubstituted thiazoles	Organic compounds	Organoheterocyclic compounds	Azoles	Thiazoles	sub_class	Thiazoles
+HMDB0001924	Atenolol	Phenylacetamides	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenylacetamides	sub_class	Phenylacetamides
+HMDB0001927	Diphenhydramine	Diphenylmethanes	Organic compounds	Benzenoids	Benzene and substituted derivatives	Diphenylmethanes	sub_class	Diphenylmethanes
+HMDB0001937	Salbutamol	Benzyl alcohols	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzyl alcohols	sub_class	Benzyl alcohols
+HMDB0001941	Brompheniramine	Pheniramines	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Pheniramines	sub_class	Pheniramines
+HMDB0001978	5-Hydroxypyrazinamide	Pyrazinecarboxamides	Organic compounds	Organoheterocyclic compounds	Diazines	Pyrazines	sub_class	Pyrazines
+HMDB0002072	4-Methoxyphenylacetic acid	Anisoles	Organic compounds	Benzenoids	Phenol ethers	Anisoles	sub_class	Anisoles
+HMDB0002114	Bisdemethoxycurcumin	Curcuminoids	Organic compounds	Phenylpropanoids and polyketides	Diarylheptanoids	Linear diarylheptanoids	sub_class	Linear diarylheptanoids
+HMDB0002121	Carnosol	Diterpene lactones	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Terpene lactones	sub_class	Terpene lactones
+HMDB0002124	Apigenin	Flavones	Organic compounds	Phenylpropanoids and polyketides	Flavonoids	Flavones	sub_class	Flavones
+HMDB0002222	3-Methylphenylacetic acid	Toluenes	Organic compounds	Benzenoids	Benzene and substituted derivatives	Toluenes	sub_class	Toluenes
+HMDB0002338	Biochanin A	4'-O-methylisoflavones	Organic compounds	Phenylpropanoids and polyketides	Isoflavonoids	O-methylated isoflavonoids	sub_class	O-methylated isoflavonoids
+HMDB0002430	(3a,5b,7a)-23-Carboxy-7-hydroxy-24-norcholan-3-yl-b-D-Glucopyranosiduronic acid	Steroid glucuronide conjugates	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroidal glycosides	sub_class	Steroidal glycosides
+HMDB0002927	Naringin	Flavonoid-7-O-glycosides	Organic compounds	Phenylpropanoids and polyketides	Flavonoids	Flavonoid glycosides	sub_class	Flavonoid glycosides
+HMDB0002937	Tamarixetin	4'-O-methylated flavonoids	Organic compounds	Phenylpropanoids and polyketides	Flavonoids	O-methylated flavonoids	sub_class	O-methylated flavonoids
+HMDB0003141	Retinoyl b-glucuronide	Diterpene glycosides	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Terpene glycosides	sub_class	Terpene glycosides
+HMDB0004072	4-Hydroxystyrene	Styrenes	Organic compounds	Benzenoids	Benzene and substituted derivatives	Styrenes	sub_class	Styrenes
+HMDB0004077	4,6-Dihydroxyquinoline	Hydroxyquinolones	Organic compounds	Organoheterocyclic compounds	Quinolines and derivatives	Quinolones and derivatives	sub_class	Quinolones and derivatives
+HMDB0004186	3-Methyldioxyindole	Indolines	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Indolines	sub_class	Indolines
+HMDB0004811	2,4-Dichlorophenol	Dichlorobenzenes	Organic compounds	Benzenoids	Benzene and substituted derivatives	Halobenzenes	sub_class	Halobenzenes
+HMDB0004889	Ganglioside GA2 (d18:1/9Z-18:1)	Phosphatidylinositols	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoinositols	sub_class	Glycerophosphoinositols
+HMDB0005033	Valdecoxib	Benzenesulfonamides	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzenesulfonamides	sub_class	Benzenesulfonamides
+HMDB0005042	Aripiprazole	Phenylpiperazines	Organic compounds	Organoheterocyclic compounds	Diazinanes	Piperazines	sub_class	Piperazines
+HMDB0006552	Aflatoxin B1	Difurocoumarocyclopentenones	Organic compounds	Phenylpropanoids and polyketides	Coumarins and derivatives	Furanocoumarins	sub_class	Furanocoumarins
+HMDB0006790	Galactosylglycerol	Glycosylglycerols	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Glycosylglycerols	sub_class	Glycosylglycerols
+HMDB0006820	2-Hexaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone	Sesterterpenoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Sesterterpenoids	sub_class	Sesterterpenoids
+HMDB0009922	PIP(16:0/22:4(10Z,13Z,16Z,19Z))	Glycerophosphoinositol phosphates	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoinositol phosphates	sub_class	Glycerophosphoinositol phosphates
+HMDB0011153	MG(P-18:0/0:0/0:0)	Glycerol vinyl ethers	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Glycerol vinyl ethers	sub_class	Glycerol vinyl ethers
+HMDB0011725	5-Sulfosalicylic acid	3-sulfobenzoic acids	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzenesulfonic acids and derivatives	sub_class	Benzenesulfonic acids and derivatives
+HMDB0012488	1,2,3,4-Tetrahydro-beta-carboline	Beta carbolines	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Pyridoindoles	sub_class	Pyridoindoles
+HMDB0013636	Pyrroloquinoline quinone	Pyrroloquinoline quinones	Organic compounds	Organoheterocyclic compounds	Quinolines and derivatives	Pyrroloquinolines	sub_class	Pyrroloquinolines
+HMDB0013806	1,3-Diisopropylbenzene	Cumenes	Organic compounds	Benzenoids	Benzene and substituted derivatives	Cumenes	sub_class	Cumenes
+HMDB0013862	N-desmethylimatinib	Benzanilides	Organic compounds	Benzenoids	Benzene and substituted derivatives	Anilides	sub_class	Anilides
+HMDB0013870	cis,trans-5'-Hydroxythalidomide	Phthalimides	Organic compounds	Organoheterocyclic compounds	Isoindoles and derivatives	Isoindolines	sub_class	Isoindolines
+HMDB0013938	Promazine 5-sulfoxide	Phenothiazines	Organic compounds	Organoheterocyclic compounds	Benzothiazines	Phenothiazines	sub_class	Phenothiazines
+HMDB0014023	para-Trifluoromethylphenol	Trifluoromethylbenzenes	Organic compounds	Benzenoids	Benzene and substituted derivatives	Trifluoromethylbenzenes	sub_class	Trifluoromethylbenzenes
+HMDB0014421	Amsacrine	Acridines	Organic compounds	Organoheterocyclic compounds	Quinolines and derivatives	Benzoquinolines	sub_class	Benzoquinolines
+HMDB0014426	Lidocaine	m-Xylenes	Organic compounds	Benzenoids	Benzene and substituted derivatives	Xylenes	sub_class	Xylenes
+HMDB0014480	Nitrofurazone	Nitrofurans	Organic compounds	Organoheterocyclic compounds	Furans	Nitrofurans	sub_class	Nitrofurans
+HMDB0014500	Chlorzoxazone	Benzoxazolones	Organic compounds	Organoheterocyclic compounds	Benzoxazoles	Benzoxazolones	sub_class	Benzoxazolones
+HMDB0014713	Fenoprofen	Diphenylethers	Organic compounds	Benzenoids	Benzene and substituted derivatives	Diphenylethers	sub_class	Diphenylethers
+HMDB0014746	Chloroquine	4-aminoquinolines	Organic compounds	Organoheterocyclic compounds	Quinolines and derivatives	Aminoquinolines and derivatives	sub_class	Aminoquinolines and derivatives
+HMDB0014812	Galantamine	Galanthamine-type amaryllidaceae alkaloids	Organic compounds	Alkaloids and derivatives	Amaryllidaceae alkaloids	Galanthamine-type amaryllidaceae alkaloids	sub_class	Galanthamine-type amaryllidaceae alkaloids
+HMDB0014847	Lamivudine	3'-thia pyrimidine nucleosides	Organic compounds	Nucleosides, nucleotides, and analogues	Nucleoside and nucleotide analogues	3'-thia pyrimidine nucleosides	sub_class	3'-thia pyrimidine nucleosides
+HMDB0014906	Olopatadine	Dibenzoxepines	Organic compounds	Organoheterocyclic compounds	Benzoxepines	Dibenzoxepines	sub_class	Dibenzoxepines
+HMDB0015037	Didanosine	Purine 2',3'-dideoxyribonucleosides	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleosides	Purine 2',3'-dideoxyribonucleosides	sub_class	Purine 2',3'-dideoxyribonucleosides
+HMDB0015061	Phenoxybenzamine	Phenylmethylamines	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenylmethylamines	sub_class	Phenylmethylamines
+HMDB0015126	Oxaprozin	Phenyl-1,3-oxazoles	Organic compounds	Organoheterocyclic compounds	Azoles	Oxazoles	sub_class	Oxazoles
+HMDB0015182	Abacavir	1,3-substituted cyclopentyl purine nucleosides	Organic compounds	Nucleosides, nucleotides, and analogues	Nucleoside and nucleotide analogues	Cyclopentyl nucleosides	sub_class	Cyclopentyl nucleosides
+HMDB0015213	Diphenoxylate	Diphenylacetonitriles	Organic compounds	Benzenoids	Benzene and substituted derivatives	Diphenylacetonitriles	sub_class	Diphenylacetonitriles
+HMDB0015222	Pentolinium	N-alkylpyrrolidines	Organic compounds	Organoheterocyclic compounds	Pyrrolidines	N-alkylpyrrolidines	sub_class	N-alkylpyrrolidines
+HMDB0029203	hesperetin-7-O-glucuronide	Phenylbenzo-1,4-dioxanes	Organic compounds	Organoheterocyclic compounds	Benzodioxanes	Phenylbenzodioxanes	sub_class	Phenylbenzodioxanes
+HMDB0029319	1-Methoxyphaseollidin	Pterocarpans	Organic compounds	Phenylpropanoids and polyketides	Isoflavonoids	Furanoisoflavonoids	sub_class	Furanoisoflavonoids
+HMDB0029350	Geranyl 3-methylbutanoate	Fatty alcohol esters	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohol esters	sub_class	Fatty alcohol esters
+HMDB0029535	Grevilline A	Dihydropyranones	Organic compounds	Organoheterocyclic compounds	Pyrans	Pyranones and derivatives	sub_class	Pyranones and derivatives
+HMDB0029641	p-Mentha-1,3,5,8-tetraene	Phenylpropenes	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenylpropenes	sub_class	Phenylpropenes
+HMDB0029853	1,2-Epoxy-1,2,7,7',8,8',11,12-octahydro-psi,psi-carotene	Sesquaterpenoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Sesquaterpenoids	sub_class	Sesquaterpenoids
+HMDB0030063	Benzyl propionate	Benzyloxycarbonyls	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzyloxycarbonyls	sub_class	Benzyloxycarbonyls
+HMDB0030181	Erythratine	Erythrinanes	Organic compounds	Alkaloids and derivatives	Erythrina alkaloids	Erythrinanes	sub_class	Erythrinanes
+HMDB0030506	Cycloeucalanone	Cycloartanols and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cycloartanols and derivatives	sub_class	Cycloartanols and derivatives
+HMDB0030564	trans-Piceid	Stilbene glycosides	Organic compounds	Phenylpropanoids and polyketides	Stilbenes	Stilbene glycosides	sub_class	Stilbene glycosides
+HMDB0030643	Blighinone	Hydrophenanthrenes	Organic compounds	Benzenoids	Phenanthrenes and derivatives	Hydrophenanthrenes	sub_class	Hydrophenanthrenes
+HMDB0030756	13alpha-Hydroxydolineone	Rotenones	Organic compounds	Phenylpropanoids and polyketides	Isoflavonoids	Rotenoids	sub_class	Rotenoids
+HMDB0031317	Bis(methylthio)methane	Dithioacetals	Organic compounds	Organosulfur compounds	Thioacetals	Dithioacetals	sub_class	Dithioacetals
+HMDB0031647	Acrylic acid	Acrylic acids	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Acrylic acids and derivatives	sub_class	Acrylic acids and derivatives
+HMDB0033481	Baptifoline	Anagyrine-type alkaloids	Organic compounds	Alkaloids and derivatives	Lupin alkaloids	Anagyrine-type alkaloids	sub_class	Anagyrine-type alkaloids
+HMDB0034695	Cucurbitacin D	Cucurbitacins	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cucurbitacins	sub_class	Cucurbitacins
+HMDB0036774	Sebiferic acid	Steroid acids	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroid acids	sub_class	Steroid acids
+HMDB0036937	1-O-Caffeoylglucose	Monosaccharides	Organic compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	Monosaccharides	sub_class	Monosaccharides
+HMDB0037295	3-[(2-Mercapto-1-methylpropyl)thio]-2-butanol	Secondary alcohols	Organic compounds	Organooxygen compounds	Alcohols and polyols	Secondary alcohols	sub_class	Secondary alcohols
+HMDB0037809	Hexahydro-2',3alpha-dimethylspiro[1,3-dithiolo[4,5-b]furan-2,3'(2'H)-furan]	Monothioketals	Organic compounds	Organosulfur compounds	Thioacetals	Monothioacetals	sub_class	Monothioacetals
+HMDB0039613	3,3',4,4'-Tetrahydroxy-5,5'-diisopropyl-2,2'-dimethylbiphenyl	Biphenols	Organic compounds	Benzenoids	Benzene and substituted derivatives	Biphenols	sub_class	Biphenols
+HMDB0039844	(E,E)-2,6-Octadienal	Medium-chain aldehydes	Organic compounds	Organooxygen compounds	Carbonyl compounds	Aldehydes	sub_class	Aldehydes
+HMDB0040888	2,4-Heptadecanedione	Beta-diketones	Organic compounds	Organooxygen compounds	Carbonyl compounds	1,3-dicarbonyl compounds	sub_class	1,3-dicarbonyl compounds
+HMDB0060850	N,N,O-Tridesmethyltramadol	Cyclohexylphenols	Organic compounds	Benzenoids	Benzene and substituted derivatives	Cyclohexylphenols	sub_class	Cyclohexylphenols
+HMDB0129366	3-(2H-1,3-benzodioxol-5-yl)-3-hydroxy-1-(4-methoxy-1-benzofuran-5-yl)propan-1-one	Butyrophenones	Organic compounds	Benzenoids	Benzene and substituted derivatives	Butyrophenones	sub_class	Butyrophenones
+HMDB00000021	1,3-Diaminopropane	Monoalkylamines	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	class	Organonitrogen compounds
+HMDB00000051	2-Ketobutyric acid	Short-chain keto acids and derivatives	Organic compounds	Organic acids and derivatives	Keto acids and derivatives	Short-chain keto acids and derivatives	class	Keto acids and derivatives
+HMDB0000008	2-Hydroxybutyric acid	Alpha hydroxy acids and derivatives	Organic compounds	Organic acids and derivatives	Hydroxy acids and derivatives	Alpha hydroxy acids and derivatives	class	Hydroxy acids and derivatives
+HMDB0000012	Deoxyuridine	Pyrimidine 2'-deoxyribonucleosides	Organic compounds	Nucleosides, nucleotides, and analogues	Pyrimidine nucleosides	Pyrimidine 2'-deoxyribonucleosides	class	Pyrimidine nucleosides
+HMDB00000171	4-Pyridoxic acid	Pyridinecarboxylic acids	Organic compounds	Organoheterocyclic compounds	Pyridines and derivatives	Pyridinecarboxylic acids and derivatives	class	Pyridines and derivatives
+HMDB00000201	p-Hydroxyphenylacetic acid	1-hydroxy-2-unsubstituted benzenoids	Organic compounds	Benzenoids	Phenols	1-hydroxy-2-unsubstituted benzenoids	class	Phenols
+HMDB0000024	3-O-Sulfogalactosylceramide (d18:1/24:0)	Sulfatides	Organic compounds	Lipids and lipid-like molecules	Sphingolipids	Glycosphingolipids	class	Sphingolipids
+HMDB0000026	Ureidopropionic acid	Ureas	Organic compounds	Organic acids and derivatives	Organic carbonic acids and derivatives	Ureas	class	Organic carbonic acids and derivatives
+HMDB0000027	Tetrahydrobiopterin	Biopterins and derivatives	Organic compounds	Organoheterocyclic compounds	Pteridines and derivatives	Pterins and derivatives	class	Pteridines and derivatives
+HMDB0000033	Carnosine	Hybrid peptides	Organic compounds	Organic acids and derivatives	Peptidomimetics	Hybrid peptides	class	Peptidomimetics
+HMDB00000341	Adenine	6-aminopurines	Organic compounds	Organoheterocyclic compounds	Imidazopyrimidines	Purines and purine derivatives	class	Imidazopyrimidines
+HMDB00000441	Ascorbic acid	Butenolides	Organic compounds	Organoheterocyclic compounds	Dihydrofurans	Furanones	class	Dihydrofurans
+HMDB0000050	Adenosine	Purine nucleosides	Organic compounds	Nucleosides, nucleotides, and analogues	Purine nucleosides	NA	class	Purine nucleosides
+HMDB0000054	Bilirubin	Bilirubins	Organic compounds	Organoheterocyclic compounds	Tetrapyrroles and derivatives	Bilirubins	class	Tetrapyrroles and derivatives
+HMDB00000761	Dihydrouracil	Pyrimidones	Organic compounds	Organoheterocyclic compounds	Diazines	Pyrimidines and pyrimidine derivatives	class	Diazines
+HMDB0000130	Homogentisic acid	2(hydroxyphenyl)acetic acids	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenylacetic acids	class	Benzene and substituted derivatives
+HMDB00001971	Indoleacetic acid	Indole-3-acetic acid derivatives	Organic compounds	Organoheterocyclic compounds	Indoles and derivatives	Indolyl carboxylic acids and derivatives	class	Indoles and derivatives
+HMDB0000224	O-Phosphoethanolamine	Phosphoethanolamines	Organic compounds	Organic acids and derivatives	Organic phosphoric acids and derivatives	Phosphate esters	class	Organic phosphoric acids and derivatives
+HMDB0000246	Tetrahydrofuran	Tetrahydrofurans	Organic compounds	Organoheterocyclic compounds	Tetrahydrofurans	NA	class	Tetrahydrofurans
+HMDB00003011	Urocanic acid	Imidazolyl carboxylic acids and derivatives	Organic compounds	Organoheterocyclic compounds	Azoles	Imidazoles	class	Azoles
+HMDB00003491	Erythrono-1,4-lactone	Gamma butyrolactones	Organic compounds	Organoheterocyclic compounds	Lactones	Gamma butyrolactones	class	Lactones
+HMDB0000375	3-(3-Hydroxyphenyl)propanoic acid	Phenylpropanoic acids	Organic compounds	Phenylpropanoids and polyketides	Phenylpropanoic acids	NA	class	Phenylpropanoic acids
+HMDB00004191	3b,7a,12a-Trihydroxy-5b-cholanoic acid	1,2-diacylglycerols	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Diradylglycerols	class	Glycerolipids
+HMDB0000559	3-Methoxy-4-hydroxyphenylethyleneglycol sulfate	Phenylsulfates	Organic compounds	Organic acids and derivatives	Organic sulfuric acids and derivatives	Arylsulfates	class	Organic sulfuric acids and derivatives
+HMDB0000567	Cinnamic acid	Cinnamic acids	Organic compounds	Phenylpropanoids and polyketides	Cinnamic acids and derivatives	Cinnamic acids	class	Cinnamic acids and derivatives
+HMDB0000599	Chromium	Homogeneous transition metal compounds	Inorganic compounds	Homogeneous metal compounds	Homogeneous transition metal compounds	NA	class	Homogeneous transition metal compounds
+HMDB00007151	Kynurenic acid	Quinoline carboxylic acids	Organic compounds	Organoheterocyclic compounds	Quinolines and derivatives	Quinoline carboxylic acids	class	Quinolines and derivatives
+HMDB0000767	Pseudouridine	Nucleoside and nucleotide analogues	Organic compounds	Nucleosides, nucleotides, and analogues	Nucleoside and nucleotide analogues	NA	class	Nucleoside and nucleotide analogues
+HMDB0001122	N-Methylformamide	Carboximidic acids	Organic compounds	Organic acids and derivatives	Carboximidic acids and derivatives	Carboximidic acids	class	Carboximidic acids and derivatives
+HMDB0001189	2(N)-Methyl-norsalsolinol	Tetrahydroisoquinolines	Organic compounds	Organoheterocyclic compounds	Tetrahydroisoquinolines	NA	class	Tetrahydroisoquinolines
+HMDB00012121	Hydantoin-5-propionic acid	Hydantoins	Organic compounds	Organoheterocyclic compounds	Azolidines	Imidazolidines	class	Azolidines
+HMDB0001218	Coumarin	Coumarins and derivatives	Organic compounds	Phenylpropanoids and polyketides	Coumarins and derivatives	NA	class	Coumarins and derivatives
+HMDB0001308	5'-Phosphoribosyl-N-formylglycinamide	Glycinamide ribonucleotides	Organic compounds	Nucleosides, nucleotides, and analogues	Glycinamide ribonucleotides	NA	class	Glycinamide ribonucleotides
+HMDB0001484	Acetoacetyl-CoA	Aminopiperidines	Organic compounds	Organoheterocyclic compounds	Piperidines	Aminopiperidines	class	Piperidines
+HMDB00015181	alpha-CEHC	1-benzopyrans	Organic compounds	Organoheterocyclic compounds	Benzopyrans	1-benzopyrans	class	Benzopyrans
+HMDB0001848	Imipramine	Dibenzazepines	Organic compounds	Organoheterocyclic compounds	Benzazepines	Dibenzazepines	class	Benzazepines
+HMDB0001849	Propranolol	Naphthalenes	Organic compounds	Benzenoids	Naphthalenes	NA	class	Naphthalenes
+HMDB0001871	Epicatechin	Catechins	Organic compounds	Phenylpropanoids and polyketides	Flavonoids	Flavans	class	Flavonoids
+HMDB0001913	Omeprazole	Sulfinylbenzimidazoles	Organic compounds	Organoheterocyclic compounds	Benzimidazoles	Sulfinylbenzimidazoles	class	Benzimidazoles
+HMDB0001920	Dextromethorphan	Morphinans	Organic compounds	Alkaloids and derivatives	Morphinans	NA	class	Morphinans
+HMDB0002039	2-Pyrrolidinone	Pyrrolidine-2-ones	Organic compounds	Organoheterocyclic compounds	Pyrrolidines	Pyrrolidones	class	Pyrrolidines
+HMDB00020721	4-Methoxyphenylacetic acid	Anisoles	Organic compounds	Benzenoids	Phenol ethers	Anisoles	class	Phenol ethers
+HMDB00021141	Bisdemethoxycurcumin	Curcuminoids	Organic compounds	Phenylpropanoids and polyketides	Diarylheptanoids	Linear diarylheptanoids	class	Diarylheptanoids
+HMDB0002151	Dimethyl sulfoxide	Sulfoxides	Organic compounds	Organosulfur compounds	Sulfoxides	NA	class	Sulfoxides
+HMDB0002209	Equol	Isoflavanols	Organic compounds	Phenylpropanoids and polyketides	Isoflavonoids	Isoflavans	class	Isoflavonoids
+HMDB0002303	Dimethylsulfide	Dialkylthioethers	Organic compounds	Organosulfur compounds	Thioethers	Dialkylthioethers	class	Thioethers
+HMDB0002783	Sennoside B	Anthracenecarboxylic acids	Organic compounds	Benzenoids	Anthracenes	Anthracenecarboxylic acids and derivatives	class	Anthracenes
+HMDB0002873	Deacetyldiltiazem	Benzothiazepines	Organic compounds	Organoheterocyclic compounds	Benzothiazepines	NA	class	Benzothiazepines
+HMDB0002899	Ellagic acid	Hydrolyzable tannins	Organic compounds	Phenylpropanoids and polyketides	Tannins	Hydrolyzable tannins	class	Tannins
+HMDB0003066	Chalcone	Retrochalcones	Organic compounds	Phenylpropanoids and polyketides	Linear 1,3-diarylpropanoids	Chalcones and dihydrochalcones	class	Linear 1,3-diarylpropanoids
+HMDB0003323	Biotripyrrin-a	Substituted pyrroles	Organic compounds	Organoheterocyclic compounds	Pyrroles	Substituted pyrroles	class	Pyrroles
+HMDB0003441	Cinnamaldehyde	Cinnamaldehydes	Organic compounds	Phenylpropanoids and polyketides	Cinnamaldehydes	NA	class	Cinnamaldehydes
+HMDB0003747	Resveratrol	Stilbenes	Organic compounds	Phenylpropanoids and polyketides	Stilbenes	NA	class	Stilbenes
+HMDB0004078	Cinnavalininate	Phenoxazines	Organic compounds	Organoheterocyclic compounds	Benzoxazines	Phenoxazines	class	Benzoxazines
+HMDB0004629	O-Desmethylangolensin	Alpha-methyldeoxybenzoin flavonoids	Organic compounds	Phenylpropanoids and polyketides	Alpha-methyldeoxybenzoin flavonoids	NA	class	Alpha-methyldeoxybenzoin flavonoids
+HMDB0004666	MG(0:0/20:4(5Z,8Z,11Z,14Z)/0:0)	Endocannabinoids	Organic compounds	Lipids and lipid-like molecules	Endocannabinoids	NA	class	Endocannabinoids
+HMDB0005010	Sertraline	Tametralines	Organic compounds	Benzenoids	Tetralins	Tametralines	class	Tetralins
+HMDB0005012	Olanzapine	Benzodiazepines	Organic compounds	Organoheterocyclic compounds	Benzodiazepines	NA	class	Benzodiazepines
+HMDB0005020	Risperidone	Pyridopyrimidines	Organic compounds	Organoheterocyclic compounds	Pyridopyrimidines	NA	class	Pyridopyrimidines
+HMDB0005034	Topiramate	Dioxolopyrans	Organic compounds	Organoheterocyclic compounds	Dioxolopyrans	NA	class	Dioxolopyrans
+HMDB00050421	Aripiprazole	Phenylpiperazines	Organic compounds	Organoheterocyclic compounds	Diazinanes	Piperazines	class	Diazinanes
+HMDB0005806	gamma-Terpinene	Branched unsaturated hydrocarbons	Organic compounds	Hydrocarbons	Unsaturated hydrocarbons	Branched unsaturated hydrocarbons	class	Unsaturated hydrocarbons
+HMDB0005843	Allyl isothiocyanate	Isothiocyanates	Organic compounds	Organosulfur compounds	Isothiocyanates	NA	class	Isothiocyanates
+HMDB0005879	Dimethyldisulfide	Dialkyldisulfides	Organic compounds	Organosulfur compounds	Organic disulfides	Dialkyldisulfides	class	Organic disulfides
+HMDB0006101	Enterolactone	Dibenzylbutyrolactone lignans	Organic compounds	Lignans, neolignans and related compounds	Furanoid lignans	Tetrahydrofuran lignans	class	Furanoid lignans
+HMDB0006348	Pseudoecgonine	Tropane alkaloids	Organic compounds	Alkaloids and derivatives	Tropane alkaloids	NA	class	Tropane alkaloids
+HMDB0006773	11b-Hydroxyandrost-4-ene-3,17-dione	Phenylmorpholines	Organic compounds	Organoheterocyclic compounds	Oxazinanes	Morpholines	class	Oxazinanes
+HMDB0011672	Aflatoxin B1 dialcohol	Naphthofurans	Organic compounds	Organoheterocyclic compounds	Naphthofurans	NA	class	Naphthofurans
+HMDB0012491	1,4-Benzothiazine-O-quinonimine	Benzothiazines	Organic compounds	Organoheterocyclic compounds	Benzothiazines	NA	class	Benzothiazines
+HMDB0012492	1-(1,2,3,4,5-Pentahydroxypent-1-yl)-1,2,3,4-tetrahydro-beta-carboline-3-carboxylate	Harmala alkaloids	Organic compounds	Alkaloids and derivatives	Harmala alkaloids	NA	class	Harmala alkaloids
+HMDB0012779	4-Hydroxyestrone sulfate	Thienopyridines	Organic compounds	Organoheterocyclic compounds	Thienopyridines	NA	class	Thienopyridines
+HMDB0013139	1-Hydroxypyrene	Pyrenes	Organic compounds	Benzenoids	Pyrenes	NA	class	Pyrenes
+HMDB0013156	16-alpha-Hydroxyandrosterone	Phenanthrols	Organic compounds	Benzenoids	Phenanthrenes and derivatives	Phenanthrols	class	Phenanthrenes and derivatives
+HMDB0013815	2,3-Dihydrobenzofuran	Coumarans	Organic compounds	Organoheterocyclic compounds	Coumarans	NA	class	Coumarans
+HMDB0013960	Donepezil metabolite M4	Indanones	Organic compounds	Benzenoids	Indanes	Indanones	class	Indanes
+HMDB0013968	Hydroxyzileuton	1-benzothiophenes	Organic compounds	Organoheterocyclic compounds	Benzothiophenes	1-benzothiophenes	class	Benzothiophenes
+HMDB0014351	Reserpine	Yohimbine alkaloids	Organic compounds	Alkaloids and derivatives	Yohimbine alkaloids	NA	class	Yohimbine alkaloids
+HMDB0014374	Cefotiam	Cephalosporins	Organic compounds	Organoheterocyclic compounds	Lactams	Beta lactams	class	Lactams
+HMDB0014392	Methysergide	Lysergic acids and derivatives	Organic compounds	Alkaloids and derivatives	Ergoline and derivatives	Lysergic acids and derivatives	class	Ergoline and derivatives
+HMDB0014399	Doxycycline	Tetracyclines	Organic compounds	Phenylpropanoids and polyketides	Tetracyclines	NA	class	Tetracyclines
+HMDB0014456	Ethoxzolamide	Benzothiazoles	Organic compounds	Organoheterocyclic compounds	Benzothiazoles	NA	class	Benzothiazoles
+HMDB0014484	Metixene	Thioxanthenes	Organic compounds	Organoheterocyclic compounds	Benzothiopyrans	1-benzothiopyrans	class	Benzothiopyrans
+HMDB0014592	Dipivefrin	Phenol esters	Organic compounds	Benzenoids	Phenol esters	NA	class	Phenol esters
+HMDB0014629	Nabilone	Naphthopyranones	Organic compounds	Organoheterocyclic compounds	Naphthopyrans	Naphthopyranones	class	Naphthopyrans
+HMDB0014852	Apomorphine	Aporphines	Organic compounds	Alkaloids and derivatives	Aporphines	NA	class	Aporphines
+HMDB0014898	Meropenem	Camptothecins	Organic compounds	Alkaloids and derivatives	Camptothecins	NA	class	Camptothecins
+HMDB0015026	Granisetron	Indazole-3-carboxamides	Organic compounds	Organoheterocyclic compounds	Benzopyrazoles	Indazoles	class	Benzopyrazoles
+HMDB0015055	Spectinomycin	1,4-dioxanes	Organic compounds	Organoheterocyclic compounds	Dioxanes	1,4-dioxanes	class	Dioxanes
+HMDB0015168	Cerulenin	Oxirane carboxylic acids and derivatives	Organic compounds	Organoheterocyclic compounds	Epoxides	Oxirane carboxylic acids and derivatives	class	Epoxides
+HMDB0015391	Decitabine	Triazinones	Organic compounds	Organoheterocyclic compounds	Triazines	Triazinones	class	Triazines
+HMDB0015437	Saprisartan	2-arylbenzofuran flavonoids	Organic compounds	Phenylpropanoids and polyketides	2-arylbenzofuran flavonoids	NA	class	2-arylbenzofuran flavonoids
+HMDB0015593	Ixabepilone	Epothilones and analogues	Organic compounds	Phenylpropanoids and polyketides	Macrolides and analogues	Epothilones and analogues	class	Macrolides and analogues
+HMDB0015629	Sitaxentan	Benzodioxoles	Organic compounds	Organoheterocyclic compounds	Benzodioxoles	NA	class	Benzodioxoles
+HMDB0029367	Sanguinarine	Quaternary benzophenanthridine alkaloids	Organic compounds	Alkaloids and derivatives	Benzophenanthridine alkaloids	Quaternary benzophenanthridine alkaloids	class	Benzophenanthridine alkaloids
+HMDB00295351	Grevilline A	Dihydropyranones	Organic compounds	Organoheterocyclic compounds	Pyrans	Pyranones and derivatives	class	Pyrans
+HMDB0029755	3-Thiocyanato-1-propene	Allyl sulfur compounds	Organic compounds	Organosulfur compounds	Allyl sulfur compounds	NA	class	Allyl sulfur compounds
+HMDB0029829	Norchalciporyl propionate	Azepines	Organic compounds	Organoheterocyclic compounds	Azepines	NA	class	Azepines
+HMDB0030557	Tracheloside	Lignan glycosides	Organic compounds	Lignans, neolignans and related compounds	Lignan glycosides	NA	class	Lignan glycosides
+HMDB0031189	S-Methyl thioacetate	Thioesters	Organic compounds	Organic acids and derivatives	Thiocarboxylic acids and derivatives	Thioesters	class	Thiocarboxylic acids and derivatives
+HMDB00313171	Bis(methylthio)methane	Dithioacetals	Organic compounds	Organosulfur compounds	Thioacetals	Dithioacetals	class	Thioacetals
+HMDB0031340	Cyclamic acid	Cyclamates	Organic compounds	Organic acids and derivatives	Sulfamic acid derivatives	Cyclamates	class	Sulfamic acid derivatives
+HMDB0031919	Chaetoglobosin N	Chaetoglobosins	Organic compounds	Alkaloids and derivatives	Cytochalasans	Chaetoglobosins	class	Cytochalasans
+HMDB0033564	2,3-Dihydro-2-methylthiophene	Dihydrothiophenes	Organic compounds	Organoheterocyclic compounds	Dihydrothiophenes	NA	class	Dihydrothiophenes
+HMDB0033961	2-(3-Methylbutyl)-1H-pyrrolo[2,3-b]pyridine	Pyrrolopyridines	Organic compounds	Organoheterocyclic compounds	Pyrrolopyridines	NA	class	Pyrrolopyridines
+HMDB0034363	Monocrotaline	Pyrrolizines	Organic compounds	Organoheterocyclic compounds	Pyrrolizines	NA	class	Pyrrolizines
+HMDB0034464	Austinol	Furopyrans	Organic compounds	Organoheterocyclic compounds	Furopyrans	NA	class	Furopyrans
+HMDB0041083	(E)-Raphanusanin	Thiolactams	Organic compounds	Organoheterocyclic compounds	Thiolactams	NA	class	Thiolactams
+HMDB00000011	1-Methylhistidine	Histidine and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Histidine and derivatives
+HMDB00000151	Cortexolone	21-hydroxysteroids	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Hydroxysteroids	direct_parent	21-hydroxysteroids
+HMDB0000021	Iodotyrosine	Tyrosine and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Tyrosine and derivatives
+HMDB00000311	Androsterone	Androgens and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Androstane steroids	direct_parent	Androgens and derivatives
+HMDB00000321	7-Dehydrocholesterol	Cholesterols and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Cholestane steroids	direct_parent	Cholesterols and derivatives
+HMDB00000361	Taurocholic acid	Trihydroxy bile acids, alcohols and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	direct_parent	Trihydroxy bile acids, alcohols and derivatives
+HMDB00000391	Butyric acid	Straight chain fatty acids	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	direct_parent	Straight chain fatty acids
+HMDB0000043	Betaine	Alpha amino acids	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Alpha amino acids
+HMDB00000481	Melibiose	O-glycosyl compounds	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	O-glycosyl compounds
+HMDB0000052	Argininosuccinic acid	Aspartic acid and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Aspartic acid and derivatives
+HMDB0000056	beta-Alanine	Beta amino acids and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Beta amino acids and derivatives
+HMDB0000064	Creatine	Alpha amino acids and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Alpha amino acids and derivatives
+HMDB0000078	Cysteinylglycine	Dipeptides	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Dipeptides
+HMDB0000082	Cytidine triphosphate	Pentose phosphates	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	Pentose phosphates
+HMDB0000098	D-Xylose	Pentoses	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	Pentoses
+HMDB0000099	L-Cystathionine	L-cysteine-S-conjugates	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	L-cysteine-S-conjugates
+HMDB0000107	Galactitol	Sugar alcohols	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	Sugar alcohols
+HMDB0000112	gamma-Aminobutyric acid	Gamma amino acids and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Gamma amino acids and derivatives
+HMDB0000121	Folic acid	Glutamic acid and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Glutamic acid and derivatives
+HMDB0000122	D-Glucose	Hexoses	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	Hexoses
+HMDB0000125	Glutathione	Peptides	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Peptides
+HMDB0000127	D-Glucuronic acid	Glucuronic acid derivatives	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	Glucuronic acid derivatives
+HMDB00001301	Homogentisic acid	2(hydroxyphenyl)acetic acids	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenylacetic acids	direct_parent	2(hydroxyphenyl)acetic acids
+HMDB0000139	Glyceric acid	Sugar acids and derivatives	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	Sugar acids and derivatives
+HMDB0000150	Gluconolactone	Gluconolactones	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	Gluconolactones
+HMDB00001521	Gentisic acid	Hydroxybenzoic acid derivatives	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	direct_parent	Hydroxybenzoic acid derivatives
+HMDB0000159	L-Phenylalanine	Phenylalanine and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Phenylalanine and derivatives
+HMDB0000161	L-Alanine	Alanine and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Alanine and derivatives
+HMDB0000162	L-Proline	Proline and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Proline and derivatives
+HMDB0000167	L-Threonine	L-alpha-amino acids	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	L-alpha-amino acids
+HMDB0000168	L-Asparagine	Asparagine and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Asparagine and derivatives
+HMDB0000172	L-Isoleucine	Isoleucine and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Isoleucine and derivatives
+HMDB00002011	L-Acetylcarnitine	Acyl carnitines	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	direct_parent	Acyl carnitines
+HMDB0000207	Oleic acid	Long-chain fatty acids	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	direct_parent	Long-chain fatty acids
+HMDB0000211	myo-Inositol	Cyclohexanols	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	direct_parent	Cyclohexanols
+HMDB0000212	N-Acetylgalactosamine	N-acyl-alpha-hexosamines	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	N-acyl-alpha-hexosamines
+HMDB0000215	N-Acetyl-D-glucosamine	Acylaminosugars	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	Acylaminosugars
+HMDB0000227	Mevalonic acid	Hydroxy fatty acids	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	direct_parent	Hydroxy fatty acids
+HMDB0000230	N-Acetylneuraminic acid	N-acylneuraminic acids	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	N-acylneuraminic acids
+HMDB0000253	Pregnenolone	Gluco/mineralocorticoids, progestogins and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Pregnane steroids	direct_parent	Gluco/mineralocorticoids, progestogins and derivatives
+HMDB0000307	1beta-Hydroxycholic acid	Tetrahydroxy bile acids, alcohols and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	direct_parent	Tetrahydroxy bile acids, alcohols and derivatives
+HMDB0000321	2-Hydroxyadipic acid	Medium-chain fatty acids	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	direct_parent	Medium-chain fatty acids
+HMDB0000323	3-Amino-2-piperidone	Alpha amino acid amides	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Alpha amino acid amides
+HMDB0000339	2-Methylbutyrylglycine	N-acyl-alpha amino acids	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	N-acyl-alpha amino acids
+HMDB0000348	3b,12a-Dihydroxy-5a-cholanoic acid	Dihydroxy bile acids, alcohols and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	direct_parent	Dihydroxy bile acids, alcohols and derivatives
+HMDB0000397	2-Pyrocatechuic acid	Salicylic acids	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	direct_parent	Salicylic acids
+HMDB00004171	3D,7D,11D-Phytanic acid	Acyclic diterpenoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids	direct_parent	Acyclic diterpenoids
+HMDB00004192	3b,7a,12a-Trihydroxy-5b-cholanoic acid	1,2-diacylglycerols	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Diradylglycerols	direct_parent	1,2-diacylglycerols
+HMDB0000422	2-Methylglutaric acid	Methyl-branched fatty acids	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	direct_parent	Methyl-branched fatty acids
+HMDB0000434	Homoveratric acid	Dimethoxybenzenes	Organic compounds	Benzenoids	Benzene and substituted derivatives	Methoxybenzenes	direct_parent	Dimethoxybenzenes
+HMDB0000445	Alpha-Tetrasaccharide	Oligosaccharides	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	Oligosaccharides
+HMDB0000455	Allocystathionine	Cysteine and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Cysteine and derivatives
+HMDB00004741	Butanone	Ketones	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	direct_parent	Ketones
+HMDB0000483	5b-Cholestane-3a,7a,12a,23S,25-pentol	Pentahydroxy bile acids, alcohols and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	direct_parent	Pentahydroxy bile acids, alcohols and derivatives
+HMDB0000484	Vanillic acid	M-methoxybenzoic acids and derivatives	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	direct_parent	M-methoxybenzoic acids and derivatives
+HMDB0000489	Aspartylglycosamine	Glycosylamines	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	Glycosylamines
+HMDB0000496	3-Methoxy-4-hydroxyphenylglycol glucuronide	Phenolic glycosides	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	Phenolic glycosides
+HMDB0000520	5a-Cholestane-3a,7a,12a,25-tetrol	Phosphatidylethanolamines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines	direct_parent	Phosphatidylethanolamines
+HMDB00005341	Campestanol	Ergosterols and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Ergostane steroids	direct_parent	Ergosterols and derivatives
+HMDB0000548	TG(10:0/10:0/10:0)	Triacylglycerols	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Triradylcglycerols	direct_parent	Triacylglycerols
+HMDB00005611	beta-Carotene	Carotenes	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Tetraterpenoids	direct_parent	Carotenes
+HMDB0000564	PC(16:0/16:0)	Phosphatidylcholines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines	direct_parent	Phosphatidylcholines
+HMDB00005851	Glucosylgalactosyl hydroxylysine	Fatty acyl glycosides of mono- and disaccharides	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl glycosides	direct_parent	Fatty acyl glycosides of mono- and disaccharides
+HMDB00006101	CE(18:2(9Z,12Z))	Cholesteryl esters	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroid esters	direct_parent	Cholesteryl esters
+HMDB0000614	PS(16:0/16:0)	Phosphatidylserines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoserines	direct_parent	Phosphatidylserines
+HMDB0000656	Cysteineglutathione disulfide	Oligopeptides	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Oligopeptides
+HMDB0000660	D-Fructose	C-glycosyl compounds	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	C-glycosyl compounds
+HMDB0000684	L-Kynurenine	Alkyl-phenylketones	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	direct_parent	Alkyl-phenylketones
+HMDB0000687	L-Leucine	Leucine and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Leucine and derivatives
+HMDB0000696	L-Methionine	Methionine and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Methionine and derivatives
+HMDB0000714	Hippuric acid	Hippuric acids	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	direct_parent	Hippuric acids
+HMDB0000722	Lithocholyltaurine	Taurinated bile acids and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	direct_parent	Taurinated bile acids and derivatives
+HMDB0000747	Isovalerylalanine	N-acyl-L-alpha-amino acids	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	N-acyl-L-alpha-amino acids
+HMDB0000841	N-Acetylgalactosamine 6-sulfate	Monosaccharide sulfates	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	Monosaccharide sulfates
+HMDB0000858	Monomethyl glutaric acid	Fatty acid methyl esters	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	direct_parent	Fatty acid methyl esters
+HMDB0000883	L-Valine	Valine and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Valine and derivatives
+HMDB0000901	Valproic acid glucuronide	O-glucuronides	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	O-glucuronides
+HMDB0000944	Behenic acid	Very long-chain fatty acids	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	direct_parent	Very long-chain fatty acids
+HMDB00009771	3-Hexaprenyl-4-hydroxy-5-methoxybenzoic acid	2-polyprenyl-6-methoxyphenols	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Polyprenylphenols	direct_parent	2-polyprenyl-6-methoxyphenols
+HMDB0001004	Oxoamide	Aryl alkyl ketones	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	direct_parent	Aryl alkyl ketones
+HMDB0001005	(S)-Ureidoglycolic acid	N-carbamoyl-alpha amino acids	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	N-carbamoyl-alpha amino acids
+HMDB0001070	Octanoyl-CoA	2,3,4-saturated fatty acyl CoAs	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acyl thioesters	direct_parent	2,3,4-saturated fatty acyl CoAs
+HMDB0001072	Coenzyme Q10	Ubiquinones	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids	direct_parent	Ubiquinones
+HMDB0001080	4-Aminobutyraldehyde	Alpha-hydrogen aldehydes	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	direct_parent	Alpha-hydrogen aldehydes
+HMDB00010851	Leukotriene B4	Leukotrienes	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids	direct_parent	Leukotrienes
+HMDB0001101	p-Anisic acid	P-methoxybenzoic acids and derivatives	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	direct_parent	P-methoxybenzoic acids and derivatives
+HMDB0001123	2-Aminobenzoic acid	Aminobenzoic acids	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	direct_parent	Aminobenzoic acids
+HMDB0001139	Prostaglandin F2a	Prostaglandins and related compounds	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids	direct_parent	Prostaglandins and related compounds
+HMDB0001177	(S)-Succinyldihydrolipoamide	Thia fatty acids	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	direct_parent	Thia fatty acids
+HMDB00011861	N1-Acetylspermine	Acetamides	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives	direct_parent	Acetamides
+HMDB0001304	QH2	Ubiquinols	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids	direct_parent	Ubiquinols
+HMDB0001492	gamma-Tocopherol	Tocopherols	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids	direct_parent	Tocopherols
+HMDB0001513	Dolichyl diphosphate	Polyprenyl diphosphates	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Polyprenols	direct_parent	Polyprenyl diphosphates
+HMDB0001539	Asymmetric dimethylarginine	Arginine and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Arginine and derivatives
+HMDB0001878	Thymol	Aromatic monoterpenoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Monoterpenoids	direct_parent	Aromatic monoterpenoids
+HMDB00019171	Digoxin	Cardenolide glycosides and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroid lactones	direct_parent	Cardenolide glycosides and derivatives
+HMDB0001965	Troxilin B3	Hydroxyeicosatrienoic acids	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids	direct_parent	Hydroxyeicosatrienoic acids
+HMDB0002020	3'-Hydroxy-e,e-caroten-3-one	Xanthophylls	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Tetraterpenoids	direct_parent	Xanthophylls
+HMDB0002056	Monoisobutyl phthalic acid	Benzoic acid esters	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	direct_parent	Benzoic acid esters
+HMDB0002085	Syringic acid	Gallic acid and derivatives	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	direct_parent	Gallic acid and derivatives
+HMDB00021211	Carnosol	Diterpene lactones	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Terpene lactones	direct_parent	Diterpene lactones
+HMDB0002350	Octadecanol	Long-chain fatty alcohols	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	direct_parent	Long-chain fatty alcohols
+HMDB0002352	Capsidiol	Eremophilane, 8,9-secoeremophilane and furoeremophilane sesquiterpenoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids	direct_parent	Eremophilane, 8,9-secoeremophilane and furoeremophilane sesquiterpenoids
+HMDB00024301	(3a,5b,7a)-23-Carboxy-7-hydroxy-24-norcholan-3-yl-b-D-Glucopyranosiduronic acid	Steroid glucuronide conjugates	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroidal glycosides	direct_parent	Steroid glucuronide conjugates
+HMDB0002815	LysoPC(18:1(9Z)/0:0)	1-acyl-sn-glycero-3-phosphocholines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines	direct_parent	1-acyl-sn-glycero-3-phosphocholines
+HMDB0002972	Vitamin K1 2,3-epoxide	Vitamin K compounds	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids	direct_parent	Vitamin K compounds
+HMDB0002995	12-Keto-tetrahydro-leukotriene B4	Other hydroxyeicosapolyenoic acids	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids	direct_parent	Other hydroxyeicosapolyenoic acids
+HMDB0003072	Quinic acid	Quinic acids and derivatives	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	direct_parent	Quinic acids and derivatives
+HMDB00031411	Retinoyl b-glucuronide	Diterpene glycosides	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Terpene glycosides	direct_parent	Diterpene glycosides
+HMDB0003236	Solanidine	Solanidines and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroidal alkaloids	direct_parent	Solanidines and derivatives
+HMDB0003315	Cyclohexanone	Cyclic ketones	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	direct_parent	Cyclic ketones
+HMDB0003352	Menthol	Menthane monoterpenoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Monoterpenoids	direct_parent	Menthane monoterpenoids
+HMDB0003559	Gibberellin A3	C19-gibberellin 6-carboxylic acids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids	direct_parent	C19-gibberellin 6-carboxylic acids
+HMDB0003648	Retinyl palmitate	Wax monoesters	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acid esters	direct_parent	Wax monoesters
+HMDB0003869	epsilon-(gamma-Glutamyl)lysine	Glutamine and derivatives	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Glutamine and derivatives
+HMDB0004062	Gentisate aldehyde	Hydroxybenzaldehydes	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	direct_parent	Hydroxybenzaldehydes
+HMDB0004304	Nivalenol	Trichothecenes	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids	direct_parent	Trichothecenes
+HMDB0004461	Benzamide	Benzamides	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	direct_parent	Benzamides
+HMDB00048891	Ganglioside GA2 (d18:1/9Z-18:1)	Phosphatidylinositols	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoinositols	direct_parent	Phosphatidylinositols
+HMDB0005011	Clopidogrel	Alpha amino acid esters	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Alpha amino acid esters
+HMDB0005073	Leukotriene B5	Hydroxyeicosapentaenoic acids	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Eicosanoids	direct_parent	Hydroxyeicosapentaenoic acids
+HMDB0005085	Leukotriene B4 dimethylamide	N-acyl amines	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty amides	direct_parent	N-acyl amines
+HMDB0005779	PE(P-18:0/20:4(5Z,8Z,11Z,14Z))	1-(1Z-alkenyl),2-acylglycerophosphoethanolamines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines	direct_parent	1-(1Z-alkenyl),2-acylglycerophosphoethanolamines
+HMDB0006327	alpha-Tocotrienol	Tocotrienols	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Quinone and hydroquinone lipids	direct_parent	Tocotrienols
+HMDB0007003	CPA(16:0/0:0)	1-acyl-sn-glycerol-2,3-cyclic-phosphates	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates	direct_parent	1-acyl-sn-glycerol-2,3-cyclic-phosphates
+HMDB0007853	LysoPA(16:0/0:0)	1-acylglycerol-3-phosphates	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates	direct_parent	1-acylglycerol-3-phosphates
+HMDB0007895	PC(14:0/P-16:0)	1-acyl,2-(1Z-alkenyl)-glycerophosphocholines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines	direct_parent	1-acyl,2-(1Z-alkenyl)-glycerophosphocholines
+HMDB0010032	PIP2(16:0/16:0)	Phosphatidylinositol-4,5-bisphosphates	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoinositol phosphates	direct_parent	Phosphatidylinositol-4,5-bisphosphates
+HMDB0010226	CL(18:1(11Z)/18:1(11Z)/18:1(11Z)/18:2(9Z,12Z))	Cardiolipins	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoglycerophosphoglycerols	direct_parent	Cardiolipins
+HMDB0010323	Phenethylamine glucuronide	N-glucuronides	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	N-glucuronides
+HMDB0010352	3-alpha,20-alpha-Dihydroxy-5-beta-pregnane 3-glucuronide	1-acyl-sn-glycero-3-phosphoethanolamines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines	direct_parent	1-acyl-sn-glycero-3-phosphoethanolamines
+HMDB0010376	CE(24:0)	Phosphatidylglycerols	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoglycerols	direct_parent	Phosphatidylglycerols
+HMDB0010407	LysoPC(P-16:0/0:0)	1-(1Z-alkenyl)-glycero-3-phosphocholines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines	direct_parent	1-(1Z-alkenyl)-glycero-3-phosphocholines
+HMDB0010565	PE-NMe(18:1(9Z)/18:1(9Z))	Monomethylphosphatidylethanolamines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines	direct_parent	Monomethylphosphatidylethanolamines
+HMDB0011127	1,2-Di-(9Z,12Z,15Z-octadecatrienoyl)-3-(Galactosyl-alpha-1-6-Galactosyl-beta-1)-glycerol	Glycosyldiacylglycerols	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Glycosylglycerols	direct_parent	Glycosyldiacylglycerols
+HMDB0011128	LysoPC(0:0/18:0)	2-acyl-sn-glycero-3-phosphocholines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines	direct_parent	2-acyl-sn-glycero-3-phosphocholines
+HMDB0011129	LysoPE(0:0/18:0)	2-acyl-sn-glycero-3-phosphoethanolamines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines	direct_parent	2-acyl-sn-glycero-3-phosphoethanolamines
+HMDB0011131	MG(18:0/0:0/0:0)	1-monoacylglycerols	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	direct_parent	1-monoacylglycerols
+HMDB0011133	DHAP(18:0)	O-acylglycerone-phosphates	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	direct_parent	O-acylglycerone-phosphates
+HMDB0011142	DHAP(O-18:0)	O-alkylglycerone phosphates	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	direct_parent	O-alkylglycerone phosphates
+HMDB0011143	MG(O-18:0/0:0/0:0)	Monoalkylglycerols	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	direct_parent	Monoalkylglycerols
+HMDB0011144	LysoPA(O-18:0/0:0)	Monoalkylglycerophosphates	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates	direct_parent	Monoalkylglycerophosphates
+HMDB0011145	PA(O-16:0/18:0)	1-alkyl,2-acylglycerophosphates	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates	direct_parent	1-alkyl,2-acylglycerophosphates
+HMDB0011149	LysoPC(O-18:0/0:0)	Monoalkylglycerophosphocholines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines	direct_parent	Monoalkylglycerophosphocholines
+HMDB0011151	PC(O-16:0/18:2(9Z,12Z))	1-alkyl,2-acylglycero-3-phosphocholines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines	direct_parent	1-alkyl,2-acylglycero-3-phosphocholines
+HMDB0011152	LysoPE(P-16:0/0:0)	1-(1Z-alkenyl)-glycero-3-phosphoethanolamines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoethanolamines	direct_parent	1-(1Z-alkenyl)-glycero-3-phosphoethanolamines
+HMDB0011155	PA(P-16:0/18:2(9Z,12Z))	1-(1Z-alkenyl),2-acyl-glycerophosphates	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphates	direct_parent	1-(1Z-alkenyl),2-acyl-glycerophosphates
+HMDB0011203	PC(P-16:0/14:0)	1-(1Z-alkenyl),2-acyl-glycerophosphocholines	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphocholines	direct_parent	1-(1Z-alkenyl),2-acyl-glycerophosphocholines
+HMDB0011530	MG(0:0/14:0/0:0)	2-monoacylglycerols	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Monoradylglycerols	direct_parent	2-monoacylglycerols
+HMDB0011668	6-(alpha-D-Glucosaminyl)-1D-myo-inositol	Aminocyclitol glycosides	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	Aminocyclitol glycosides
+HMDB0012128	(R)-Amphetamine	Amphetamines and derivatives	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenethylamines	direct_parent	Amphetamines and derivatives
+HMDB0012134	1,2-Dihydroxy-3-keto-5-methylthiopentene	Alpha-branched alpha,beta-unsaturated ketones	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	direct_parent	Alpha-branched alpha,beta-unsaturated ketones
+HMDB0013253	N-Acetylhistamine	N-acetyl-2-arylethylamines	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives	direct_parent	N-acetyl-2-arylethylamines
+HMDB0013817	2,6-Di-tert-butylbenzoquinone	Monocyclic monoterpenoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Monoterpenoids	direct_parent	Monocyclic monoterpenoids
+HMDB0014371	Guanadrel	Ketals	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Ethers	direct_parent	Ketals
+HMDB0014404	Sulfanilamide	Aminobenzenesulfonamides	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzenesulfonamides	direct_parent	Aminobenzenesulfonamides
+HMDB00144261	Lidocaine	m-Xylenes	Organic compounds	Benzenoids	Benzene and substituted derivatives	Xylenes	direct_parent	m-Xylenes
+HMDB0014608	Ketorolac	Aryl-phenylketones	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	direct_parent	Aryl-phenylketones
+HMDB0014622	Amikacin	4,6-disubstituted 2-deoxystreptamines	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	4,6-disubstituted 2-deoxystreptamines
+HMDB0014653	Vancomycin	Cyclic peptides	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Amino acids, peptides, and analogues	direct_parent	Cyclic peptides
+HMDB0014742	Cisapride	Aminobenzamides	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	direct_parent	Aminobenzamides
+HMDB0014942	Dicyclomine	Carboxylic acid esters	Organic compounds	Organic acids and derivatives	Carboxylic acids and derivatives	Carboxylic acid derivatives	direct_parent	Carboxylic acid esters
+HMDB0015302	Moclobemide	4-halobenzoic acids and derivatives	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	direct_parent	4-halobenzoic acids and derivatives
+HMDB0015379	Iodixanol	Acylaminobenzoic acid and derivatives	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	direct_parent	Acylaminobenzoic acid and derivatives
+HMDB0015643	Artemether	Artemisinins	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids	direct_parent	Artemisinins
+HMDB0015680	Nonoxynol-9	Polyethylene glycols	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Ethers	direct_parent	Polyethylene glycols
+HMDB0029304	3,4-DHPEA-EA	Iridoids and derivatives	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Monoterpenoids	direct_parent	Iridoids and derivatives
+HMDB0029309	Diosgenin 3-[glucosyl-(1->4)-rhamnosyl-(1->4)-[rhamnosyl-(1->2)]-glucoside]	Steroidal saponins	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroidal glycosides	direct_parent	Steroidal saponins
+HMDB0029316	(3beta,5alpha)-Ergosta-7,23-dien-3-ol	Triterpene saponins	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Terpene glycosides	direct_parent	Triterpene saponins
+HMDB0029382	Genomorphine	Abscisic acids and derivatives	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids	direct_parent	Abscisic acids and derivatives
+HMDB0029559	(4-Hydroxybenzoyl)choline	p-Hydroxybenzoic acid alkyl esters	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	direct_parent	p-Hydroxybenzoic acid alkyl esters
+HMDB0029668	Eremopetasinorol	Cyclic alcohols and derivatives	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	direct_parent	Cyclic alcohols and derivatives
+HMDB0029717	2-Thiophenecarboxaldehyde	Aryl-aldehydes	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	direct_parent	Aryl-aldehydes
+HMDB0029760	1,1-Diethoxy-2-hexene	Acetals	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Ethers	direct_parent	Acetals
+HMDB0029776	Dhurrin 6'-glucoside	Cyanogenic glycosides	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	Cyanogenic glycosides
+HMDB0029792	Dieporeticenin	Annonaceous acetogenins	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty alcohols	direct_parent	Annonaceous acetogenins
+HMDB0029817	Ethyl salicylate	o-Hydroxybenzoic acid esters	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	direct_parent	o-Hydroxybenzoic acid esters
+HMDB0029863	(3beta,22E)-26,27-Dinorergosta-5,22-dien-3-ol	3-hydroxysteroids	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Hydroxysteroids	direct_parent	3-hydroxysteroids
+HMDB0029985	13,15-Triacontanedione	Beta-diketones	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	direct_parent	Beta-diketones
+HMDB0030038	Euglobal V	5,10-cycloaromadendrane sesquiterpenoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids	direct_parent	5,10-cycloaromadendrane sesquiterpenoids
+HMDB0030041	Lupulone	M-benzoquinones	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	direct_parent	M-benzoquinones
+HMDB0030046	Asparagoside A	Furanoid fatty acids	Organic compounds	Lipids and lipid-like molecules	Fatty Acyls	Fatty acids and conjugates	direct_parent	Furanoid fatty acids
+HMDB0030085	Pubescenol	Withanolides and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroid lactones	direct_parent	Withanolides and derivatives
+HMDB0030180	Crustecdysone	Hydroxy bile acids, alcohols and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Bile acids, alcohols and derivatives	direct_parent	Hydroxy bile acids, alcohols and derivatives
+HMDB0030404	Armillaripin	Melleolides and analogues	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids	direct_parent	Melleolides and analogues
+HMDB0030423	28-Homobrassinolide	Brassinolides and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroid lactones	direct_parent	Brassinolides and derivatives
+HMDB0030454	Macrophorin A	Cyclohexenones	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	direct_parent	Cyclohexenones
+HMDB0030919	Acorusdiol	Eudesmane, isoeudesmane or cycloeudesmane sesquiterpenoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids	direct_parent	Eudesmane, isoeudesmane or cycloeudesmane sesquiterpenoids
+HMDB0031011	Glycerol 1,3-dihexadecanoate	1,3-diacylglycerols	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Diradylglycerols	direct_parent	1,3-diacylglycerols
+HMDB0031137	Annosquamosin A	Kaurane diterpenoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids	direct_parent	Kaurane diterpenoids
+HMDB0031378	4-Epiisoinuviscolide	Guaianolides and derivatives	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Terpene lactones	direct_parent	Guaianolides and derivatives
+HMDB0031402	23-Acetoxysoladulcidine	Spirosolanes and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroidal alkaloids	direct_parent	Spirosolanes and derivatives
+HMDB0031456	2-Methylpropan-2-ol	Tertiary alcohols	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Alcohols and polyols	direct_parent	Tertiary alcohols
+HMDB0031888	Theacitrin A	Galloyl esters	Organic compounds	Benzenoids	Benzene and substituted derivatives	Benzoic acids and derivatives	direct_parent	Galloyl esters
+HMDB0032428	Methylthiomethylmercaptan	Hemiacetals	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Ethers	direct_parent	Hemiacetals
+HMDB0033228	Guaidiol	Guaianes	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Sesquiterpenoids	direct_parent	Guaianes
+HMDB0034031	3-(2-Heptenyloxy)-2-hydroxypropyl undecanoate	1-alkyl,3-acylglycerols	Organic compounds	Lipids and lipid-like molecules	Glycerolipids	Diradylglycerols	direct_parent	1-alkyl,3-acylglycerols
+HMDB0034229	Hygromycin B	2-deoxystreptamine aminoglycosides	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	direct_parent	2-deoxystreptamine aminoglycosides
+HMDB0035036	Glaucarubolone 15-O-beta-D-glucopyranoside	Quassinoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Terpene lactones	direct_parent	Quassinoids
+HMDB0036845	Cembrene	Cembrane diterpenoids	Organic compounds	Lipids and lipid-like molecules	Prenol lipids	Diterpenoids	direct_parent	Cembrane diterpenoids
+HMDB0038836	Solanocardinol	Solanocapsine-type alkaloids	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroidal alkaloids	direct_parent	Solanocapsine-type alkaloids
+HMDB0041835	Benzidine	Benzidines	Organic compounds	Benzenoids	Benzene and substituted derivatives	Biphenyls and derivatives	direct_parent	Benzidines
+HMDB0060730	20, 22-Dihydrodigoxigenin	Cardenolides and derivatives	Organic compounds	Lipids and lipid-like molecules	Steroids and steroid derivatives	Steroid lactones	direct_parent	Cardenolides and derivatives
+HMDB0061690	LysoPI(20:4(5Z,8Z,11Z,14Z)/0:0)	1-acyl-sn-glycerol-3-phosphoinositols	Organic compounds	Lipids and lipid-like molecules	Glycerophospholipids	Glycerophosphoinositols	direct_parent	1-acyl-sn-glycerol-3-phosphoinositols
+HMDB0061920	Prop-2-enylcyclohexane	Cyclic olefins	Organic compounds	Hydrocarbons	Unsaturated hydrocarbons	Olefins	direct_parent	Cyclic olefins
+465	NA	NA	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	others	Alkanolamines
+466	NA	NA	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbohydrates and carbohydrate conjugates	others	Glycosyl compounds
+467	NA	NA	Organic compounds	Benzenoids	Phenols	NA	others	Phenols and derivatives
+468	NA	NA	Organic compounds	Benzenoids	Benzene and substituted derivatives	Phenylacetic acids	others	Phenylacetic acid derivatives
+469	NA	NA	Organic compounds	Organoheterocyclic compounds	Furans	Furoic acid and derivatives	others	Furoic acid derivatives
+470	NA	NA	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	others	Alpha,beta-unsaturated carbonyl compounds
+471	NA	NA	Organic compounds	Hydrocarbons	Unsaturated hydrocarbons	Olefins	others	Acyclic olefins
+472	NA	NA	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	others	Alpha-acyloxy carbonyl compounds
+473	NA	NA	Organic compounds	Organic oxygen compounds	Organooxygen compounds	Carbonyl compounds	others	Benzaldehydes
+474	NA	NA	Organic compounds	Organic nitrogen compounds	Organonitrogen compounds	Amines	others	Tertiary amines
