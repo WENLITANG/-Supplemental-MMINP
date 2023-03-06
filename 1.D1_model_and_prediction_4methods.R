@@ -92,7 +92,7 @@ length(melonn_res$wellPredicted) #976
 #   tmp <- read.csv(f)
 #   envim_res <- rbind(envim_res, tmp)
 # }
-# write.table(envim_res, "IBD_ENVIM/ENVIM_merged_summary.csv", row.names = F, sep = "\t", quote = F)
+# write.table(envim_res, "IBD_ENVIM/ENVIM_merged_summary.csv", row.names = F, sep = ",", quote = F)
 envim_res <- read.csv("IBD_ENVIM/ENVIM_merged_summary.csv", header = T)
 rownames(envim_res) <- envim_res$Compound_name
 
