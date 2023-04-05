@@ -75,22 +75,25 @@ ggplot(d2) +
 ggsave("fig2a_circle.pdf", width = 6, height = 6)
 
 ############################################################################################ Fig2B barplot
-assigned_MMINP <- mbpredict[mbpredict$MMINP %in% "Wellpredicted" & (mbpredict$assigned %in% "Assigned"), ]
-assigned_MMINP$putativeclass2 <- ifelse(assigned_MMINP$Putative.Chemical.Class %in% names(which(table(assigned_MMINP$Putative.Chemical.Class)>4)),
-                                        assigned_MMINP$Putative.Chemical.Class, "Others")
-assigned_MMINP$putativeclass2 <- factor(assigned_MMINP$putativeclass2, levels = names(sort(table(assigned_MMINP$putativeclass2))))
-#assigned_MMINP$MMINP <- factor(assigned_MMINP$MMINP, levels = c("Predicted", "Wellpredicted"))
-xaxis <- paste0(levels(assigned_MMINP$putativeclass2), "(", table(assigned_MMINP$putativeclass2), ")")
-ggplot(assigned_MMINP[!assigned_MMINP$putativeclass2 %in% c("Unassigned", "Others"), ], aes(putativeclass2))+
-  geom_bar(fill = "#00acc1", width = 0.8, color = "black")+ #39A6DD
+wpm <- mbpredict[mbpredict$MMINP %in% "Wellpredicted" & (mbpredict$assigned %in% "Assigned"), ]
+toshow <- names(which(table(wpm$Putative.Chemical.Class)>4))
+wpm$putativeclass2 <- ifelse(wpm$Putative.Chemical.Class %in% toshow,
+                             wpm$Putative.Chemical.Class, "Others")
+showlevel <- names(sort(table(wpm$putativeclass2))) %>% .[!. %in% "Others"]
+assigned_MMINP <- mbpredict[mbpredict$Putative.Chemical.Class %in% toshow, ]
+assigned_MMINP$Putative.Chemical.Class <- factor(assigned_MMINP$Putative.Chemical.Class, levels = showlevel)
+assigned_MMINP$MMINP <- factor(assigned_MMINP$MMINP, levels = c("NIM", "PPM", "WPM"))
+ggplot(assigned_MMINP, aes(Putative.Chemical.Class, fill = MMINP))+
+  geom_bar(width = 0.8, color = "black", alpha = 0.8)+ 
   coord_flip()+
   theme_classic()+
-  xlab("Putative Chemical Class (number of members)")+
-  scale_x_discrete(labels = xaxis[-length(xaxis)], expand = c(0,0))+
+  scale_fill_manual(values = c("#84A0AB", "#CAE9F1", "#8DBDDA"))+
+  xlab("Putative Chemical Class")+
   theme(axis.text = element_text(size = 10, color = "black"),
-        axis.title = element_text(size = 12, colour = "black"))+
+        axis.title = element_text(size = 12, colour = "black"),
+        legend.title = element_blank())+
   scale_y_continuous(expand = c(0,0)) 
-ggsave("fig2b_barplot.pdf", width = 8, height = 7)
+ggsave("fig2b_barplot.pdf", width = 10, height = 5)
 
 ######################################################################################### Fig2C procrustes
 library(vegan)
@@ -128,3 +131,40 @@ ggplot(Y, aes(color = group)) +
        title = distmethod, 
        subtitle = paste0("M^2: ", m2, "   p: ", pvalue))
 ggsave(paste0("fig2c_", distmethod, "_procrustes.pdf"), width = 5.6, height = 5)
+
+######################################################################################### Sup2B: mg VS mb, procrustes
+library(vegan)
+distmethod <- "euclidean"
+#mbmdist <- vegdist(mbmscale[, names(which(colSums(mbm[, colnames(mbp)]) > 0))], method = distmethod)
+mgpdist <- vegdist(mgpscale, method = distmethod)
+#mbm_pca <- cmdscale(mbmdist)
+mgp_pca <- cmdscale(mgpdist)
+proc <- procrustes(mbm_pca, mgp_pca)
+#extract information 
+Y <- cbind(data.frame(proc$Yrot), data.frame(proc$X))
+colnames(Y) <- gsub("Dim", "PC", colnames(Y))
+X <- data.frame(proc$rotation)
+set.seed(123)
+prot <- protest(X = mbm_pca, Y = mgp_pca, permutations = how(nperm = 999))
+pvalue <- ifelse(prot$signif < 0.001, "< 0.001",round(prot$signif, 3)) 
+m2 <- round(prot$ss, 3)
+#add group
+Y$group <- m[rownames(Y), "Diagnosis"]
+#plot
+ggplot(Y, aes(color = group)) +
+  geom_point(aes(X1, X2, color = group), size = 3, shape = 16) +
+  geom_point(aes(PC1, PC2, color = group), size = 3, shape = 1) +
+  scale_color_manual(values = c("CD" = "#e64a19", #"#E5352B",
+                                "Control" =  "#00acc1", #"#0081B4", 
+                                "UC" =  "#f9a825"#"#EF9020"
+  ))+
+  geom_segment(aes(x = X1, y = X2, xend = PC1, yend = PC2), arrow = arrow(length = unit(0.2, 'cm')),
+               size = 0.6, show.legend = F) +
+  theme(panel.grid = element_blank(), panel.background = element_rect(color = 'black', fill = 'transparent'),
+        title = element_text(size = 16), axis.title = element_text(size = 14), 
+        axis.text = element_text(size = 12), legend.text = element_text(size = 12),
+        legend.key = element_rect(fill = 'transparent')) +
+  labs(x = 'Dimension 1', y = 'Dimension 2', color = '',
+       title = distmethod, 
+       subtitle = paste0("M^2: ", m2, "   p: ", pvalue))
+ggsave(paste0("Sup2b_mgp_mbm_", distmethod, "_procrustes.pdf"), width = 5.6, height = 5)

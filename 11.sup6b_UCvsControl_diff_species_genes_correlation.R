@@ -199,11 +199,11 @@ annotation_row$group <- ifelse(annotation_row$diff_uc_con > 0, "UC",
                                       "Control", NA))
 annotation_row2 <- annotation_row[complete.cases(annotation_row$group), ]
 annotation_col2 <- annotation_col[complete.cases(annotation_col$group), ]
-annotation_row2 <- annotation_row2[order(annotation_row2$group), ]
-annotation_col2 <- annotation_col2[order(annotation_col2$group, annotation_col2$pathway), ]
-pheatmap(d_heatmap[rownames(annotation_row2), rownames(annotation_col2)], annotation_col = annotation_col[, c("name.x", "group")], 
-         annotation_row = annotation_row[, "group", drop = F], fontsize_number = 10, cluster_rows = F,
-         labels_col = annotation_col$name.y, cluster_cols = F, annotation_colors = ann_colors,
+annotation_row2 <- annotation_row2[order(annotation_row2$group, decreasing = T), ]
+annotation_col2 <- annotation_col2[order(annotation_col2$group, annotation_col2$pathway, decreasing = T), ]
+pheatmap(d_heatmap[rownames(annotation_row2), rownames(annotation_col2)], annotation_col = annotation_col2[, c("name.x", "group")], 
+         annotation_row = annotation_row2[, "group", drop = F], fontsize_number = 10, cluster_rows = F,
+         labels_col = annotation_col2$name.y, cluster_cols = F, annotation_colors = ann_colors,
          display_numbers = species_kegg_ec3[rownames(annotation_row2), rownames(annotation_col2)],
          filename = "sup6b_UCvsControl_diff_species_genes_correlation.pdf", width = 10.4, height = 4.2)
 dev.off()

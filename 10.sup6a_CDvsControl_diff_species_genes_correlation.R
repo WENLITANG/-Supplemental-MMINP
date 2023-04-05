@@ -112,11 +112,12 @@ taxon2 <- taxon[taxon$genus %in% species_info2$genus, ]
 ## download specis:ec (kegg)  
 #https://rest.kegg.jp/link/fpla/enzyme
 #https://rest.kegg.jp/list/genome
+dir.create("kegg_cd/")
 for (i in na.omit(species_info2$shortname2)) {
-  download.file(paste0("https://rest.kegg.jp/link/", i, "/enzyme"), destfile = paste0("kegg/", i, "_ec.txt"))
+  download.file(paste0("https://rest.kegg.jp/link/", i, "/enzyme"), destfile = paste0("kegg_cd/", i, "_ec.txt"))
 }
 species_kegg_ec <- c()
-for (f in list.files("kegg/", pattern = "*_ec.txt", full.names = T)) {
+for (f in list.files("kegg_cd/", pattern = "*_ec.txt", full.names = T)) {
   tmp <- read.table(f, header = F, sep = "\t")
   tmp$V1 <- gsub("ec:", "", tmp$V1)
   species_kegg_ec <- rbind(species_kegg_ec, tmp[tmp$V1 %in% ec_info$ID, ])
@@ -201,8 +202,8 @@ ann_colors2 = list(
              'map00600:Sphingolipid metabolism' = "#A6D854", 
              'mix' = "#FFD92F")
 )
-pheatmap(d_heatmap[rownames(annotation_row2), rownames(annotation_col2)], annotation_col = annotation_col[, c("name.x", "group")], 
-         annotation_row = annotation_row[, "group", drop = F], fontsize_number = 10, cluster_rows = F,
+pheatmap(d_heatmap[rownames(annotation_row2), rownames(annotation_col2)], annotation_col = annotation_col2[, c("name.x", "group")], 
+         annotation_row = annotation_row2[, "group", drop = F], fontsize_number = 10, cluster_rows = F,
          labels_col = annotation_col2$name.y, cluster_cols = F, annotation_colors = ann_colors2,
          display_numbers = species_kegg_ec3[rownames(annotation_row2), rownames(annotation_col2)],
          filename = "sup6a_CDvsControl_diff_species_genes_correlation.pdf", width = 11.2, height = 4.6)

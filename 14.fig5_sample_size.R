@@ -211,5 +211,73 @@ p3 <- ggplot(m3, aes(x = trainnumb, y = value, color = variable))+
   scale_color_manual(values = c("#b79f00", "#e64a19", "#00d9f4", "#004ac7"))+#ylim(0,1)
   geom_smooth(aes(x = as.numeric(m3[,"trainnumb"])), position = position_dodge(0.9))
 
-p1+p3+p2+plot_layout(guides = 'collect')
-ggsave("fig5_samplesize.pdf", width = 13.2, height = 4)
+
+#################################################################################### accuracy, precision, F1 score
+# TP: wellpredicted
+# FP: poorlypredicted
+# TN: all - predicted
+# FN: 0
+# Accuracy=(TP+TN)/(TP+TN+FP+FN)
+# Precision=TP/(TP+FP)
+# Recall=TP/(TP+FN)
+# F1score=2*precision*recall/(precision+recall)
+#calculate_index <- function()
+m$FN <- 0
+m$Recall <- 1
+for(i in c("O2PLS", "MMINP", "Melon", "ENVIM")){
+  m[, paste0(i, "_TP")] <- m[, paste0(i, "_wellpred")]
+  m[, paste0(i, "_TN")] <- m$all - m[, paste0(i, "_welltrain")]
+  m[, paste0(i, "_FP")] <- m[, paste0(i, "_welltrain")]  - m[, paste0(i, "_wellpred")]
+  m[, paste0(i, "_Accuracy")] <- (m[, paste0(i, "_TP")] + m[, paste0(i, "_TN")]) / m$all
+  m[, paste0(i, "_Precision")] <- m[, paste0(i, "_TP")] / (m[, paste0(i, "_TP")] + m[, paste0(i, "_FP")])
+  m[, paste0(i, "_F1score")] <- 2 * m[, paste0(i, "_Precision")] * m$Recall / (m[, paste0(i, "_Precision")] + m$Recall)
+}
+
+n4 <- c("trainnumb", paste(c("O2PLS", "MMINP", "Melon", "ENVIM"), "Accuracy", sep = "_"))
+m4 <- reshape2::melt(m, id.vars = "trainnumb", measure.vars = n4[-1])
+m4$trainnumb <- factor(m4$trainnumb, levels = seq(20, 150, 10))
+p4 <- ggplot(m4, aes(x = trainnumb, y = value, color = variable))+
+  geom_boxplot(outlier.size = 1, position = position_dodge(0.9))+
+  theme_bw()+
+  #scale_color_nejm()+
+  theme(axis.title = element_text(size = 16, color = "black"),
+        axis.text.x = element_text(size = 12, color = "black", angle = 45, hjust = 1),
+        axis.text.y = element_text(size = 12, color = "black"))+
+  ylab("Accuracy")+
+  xlab("Size of training samples")+
+  scale_color_manual(values = c("#b79f00", "#e64a19", "#00d9f4", "#004ac7"))+#ylim(0,1)
+  geom_smooth(aes(x = as.numeric(m3[,"trainnumb"])), position = position_dodge(0.9))
+
+n5 <- c("trainnumb", paste(c("O2PLS", "MMINP", "Melon", "ENVIM"), "Precision", sep = "_"))
+m5 <- reshape2::melt(m, id.vars = "trainnumb", measure.vars = n5[-1])
+m5$trainnumb <- factor(m5$trainnumb, levels = seq(20, 150, 10))
+p5 <- ggplot(m5, aes(x = trainnumb, y = value, color = variable))+
+  geom_boxplot(outlier.size = 1, position = position_dodge(0.9))+
+  theme_bw()+
+  #scale_color_nejm()+
+  theme(axis.title = element_text(size = 16, color = "black"),
+        axis.text.x = element_text(size = 12, color = "black", angle = 45, hjust = 1),
+        axis.text.y = element_text(size = 12, color = "black"))+
+  ylab("Precision")+
+  xlab("Size of training samples")+
+  scale_color_manual(values = c("#b79f00", "#e64a19", "#00d9f4", "#004ac7"))+#ylim(0,1)
+  geom_smooth(aes(x = as.numeric(m3[,"trainnumb"])), position = position_dodge(0.9))
+
+n6 <- c("trainnumb", paste(c("O2PLS", "MMINP", "Melon", "ENVIM"), "F1score", sep = "_"))
+m6 <- reshape2::melt(m, id.vars = "trainnumb", measure.vars = n6[-1])
+m6$trainnumb <- factor(m6$trainnumb, levels = seq(20, 150, 10))
+p6 <- ggplot(m6, aes(x = trainnumb, y = value, color = variable))+
+  geom_boxplot(outlier.size = 1, position = position_dodge(0.9))+
+  theme_bw()+
+  #scale_color_nejm()+
+  theme(axis.title = element_text(size = 16, color = "black"),
+        axis.text.x = element_text(size = 12, color = "black", angle = 45, hjust = 1),
+        axis.text.y = element_text(size = 12, color = "black"))+
+  ylab("F1score")+
+  xlab("Size of training samples")+
+  scale_color_manual(values = c("#b79f00", "#e64a19", "#00d9f4", "#004ac7"))+#ylim(0,1)
+  geom_smooth(aes(x = as.numeric(m3[,"trainnumb"])), position = position_dodge(0.9))
+
+(p1+p3+p2) / (p5+p4+p6) + plot_layout(guides = 'collect') + plot_annotation(tag_levels = "A")
+ggsave("fig5_samplesize.pdf", width = 13.2, height = 9)
+write.table(m, "samplesize.txt", row.names = F, sep = "\t", quote = F)

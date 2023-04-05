@@ -158,7 +158,7 @@ ggplot(d, aes(x = r, y = value, color = variable))+
         legend.key = element_blank())
 ggsave("sup1a_rcutoff_example.pdf", height = 5.4, width = 6) 
 
-# sup1b
+# sup1c
 res$group <- cut(res$r, breaks = c(0.25, 0.35, 0.45, 0.55))
 ggplot(res, aes(fit1.tSp_y_train, fit1.train_all, fill = group))+
   geom_point(size = 3, alpha = 0.9, show.legend = T, shape = 21)+
@@ -168,9 +168,9 @@ ggplot(res, aes(fit1.tSp_y_train, fit1.train_all, fill = group))+
   # xlim(0, 1)+
   # ylim(0, 1)+
   theme_bw()
-ggsave("sup1b_rcutoff_ratio.pdf", height = 5.4, width = 6) 
+ggsave("sup1c_rcutoff_ratio.pdf", height = 5.4, width = 6) 
 
-# sup1c
+# sup1b
 library(dplyr)
 library(shadowtext)
 summary(res$r)
@@ -186,4 +186,4 @@ ggplot(data=res,aes(x=r)) +
   ylab("Frequence")+
   theme(axis.title = element_text(size = 16),
         axis.text = element_text(size = 14, colour = "black"))
-ggsave("sup1c_rcutoff_histogram.pdf", height = 5.4, width = 4.2)
+ggsave("sup1b_rcutoff_histogram.pdf", height = 5.4, width = 4.2)
